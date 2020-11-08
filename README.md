@@ -1,18 +1,10 @@
-![i](https://user-images.githubusercontent.com/67863890/98443415-1be46880-2131-11eb-8a0e-3a3ea293c376.gif)
+##Object_Tracking
+
+Object detection and tracking are the task that is important and challenging such as video surveillance and vehicle navigation.
+
+Image processing is a method of extracting some useful information by converting image into digital inform by performing some operations on it. 
 
 
-Hi there 👋
-This is **[Narendran S](https://narendranaskiddy.weebly.com/)** ✨ .
+HSL and HSV are alternative representations of the RGB color model, designed in the 1970s by computer graphics researchers to more closely align with the way human vision perceives color-making attributes
 
-*Student | GCT | EIE | Class of 2023 | Interested in Matlab | Interested in python | Want to Serve by knowledge*
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying in government college of technology, Coimbatore 
-- 🌱 I’m currently learning aside about electronics and instrumentation with control design
-- 👯 I’m looking to collaborate on passionate learners
-- 💬 Hate quitting 
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/narendranaskiddypotter/)
-- 😄 Pronouns: call me **kiddy**
-- 😄 Protfolio: www.narendrans.live
-- ⚡ Fun fact: Don't Try 😅
+HSV Color Space. The HSV color space (hue, saturation, value) is often used by people who are selecting colors (e.g., of paints or inks) from a color wheel or palette, because it corresponds better to how people experience color than the RGB color space does.
